@@ -13,7 +13,7 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 
-BANNER = 'images/header.jpg'
+BANNER = '/images/banner.jpg'
 BANNER_ALL_PAGES = True
 
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
