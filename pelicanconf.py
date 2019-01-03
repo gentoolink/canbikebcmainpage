@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Tri-M Sports & Consulting Ltd'
-SITENAME = u'CanbikeBC'
+SITENAME = u'Can-Bike BC'
 SITEURL = ''
 
 THEME = 'pelican-bootstrap3'
@@ -13,7 +13,9 @@ PATH = 'content'
 
 FAVICON = 'images/favpenguin.png'
 
-BANNER = '/images/banner.jpg'
+
+BANNER = 'images/banner.jpg'
+BANNER_SUBTITLE = 'Welcome to Can-Bike British Columbia'
 BANNER_ALL_PAGES = True
 
 PLUGIN_PATHS = ['/home/gentoolink/websites/pelican-plugins/']
@@ -39,10 +41,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Bookmarks
-LINKS = (('Courses', 'https://helpdesk.gentoolink.com'),
-         ('Canbike', 'http://nextcloud.com/'),
+LINKS = (('Courses', 'https://courses.canbikebc.ca'),
+         ('Project529', 'https://project529.com/garage'),
          ('My Blog', 'https://blog.canbikebc.ca'),
-         ('Inspire Wear Store', 'https://inspirewear.store'),)
+         ('Can-Bike Canada', 'http://canbikecanada.ca/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/chuckglover1'),

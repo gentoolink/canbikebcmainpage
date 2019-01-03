@@ -2,6 +2,8 @@ title: Welcome to Canbikebc.ca
 slug: home
 date: 2018-12-19
 category: Home
+URL:
+save_as: index.html
 
 ## Our Company Mission
 
