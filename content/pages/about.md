@@ -19,3 +19,4 @@ Bottom line … I love cycling, I love teaching cycling and passing along the sa
 
 Safe Ride Home.
 
+![Chuck Glover](/images/chuckglover800.png)

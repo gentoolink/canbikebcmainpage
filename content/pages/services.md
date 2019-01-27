@@ -24,6 +24,8 @@ Here are a few examples of agencies involved in delivering CAN-BIKE:
 
 # What Services are provided when you purchase a course for your organization?
 
+Full Day of cycling training consisting of class room instruction and
+real world instructor lead cycling on the road.
 
 Chuck Glover provides everything for your group of students to learn
 about improving their cycling skills for your organization. Chuck will 
@@ -35,4 +37,4 @@ student.
 All students must also be wearing a helmet or they will not be able to 
 attend the course.
 
-![Bicycle Helmet](images/chuck.png)
+![Bicycle Helmet](/images/instructor.png)

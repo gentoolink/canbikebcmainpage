@@ -14,8 +14,8 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 PATH = 'content'
 
 FAVICON = 'images/favicon.ico'
-SITELOGO = 'images/logo.png'
-SITELOGO_SIZE = '50x50'
+
+
 BANNER = 'images/banner.jpg'
 BANNER_SUBTITLE = 'Welcome to Can-Bike British Columbia'
 BANNER_ALL_PAGES = True
@@ -43,14 +43,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Bookmarks
-LINKS = (('Courses Login', 'https://courses.canbikebc.ca'),
+LINKS = (('Courses', 'https://courses.canbikebc.ca'),
+         ('Project529', 'https://project529.com/garage'),
          ('My Blog', 'https://blog.canbikebc.ca'),
-         ('Can-Bike Canada', 'http://canbikecanada.ca/'),
-	('Project529', 'https://project529.com/garage'))
+         ('Can-Bike Canada', 'http://canbikecanada.ca/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/chuckglover1'),
-          ('Facebook', 'https://facebook.com/ch.glover.1'))
+          ('Facebook', '<a href="http://www.wtfpl.net/about/">WTFPL</a>'),
+	('Instagram', 'https://instagram.com'))
 
 DEFAULT_PAGINATION = 10
 

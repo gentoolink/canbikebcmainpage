@@ -32,4 +32,5 @@ save_as: index.html
 - Cycling is a lifetime skill that can be enjoyed almost anywhere and almost anytime.
 
 - Safe cycling begins with Bicycle Helmets and clothing that can be seen by those around the cyclist 
+
 ![Bicyle Helmet](/images/helmet.jpg)
